@@ -33,3 +33,10 @@
   <img align="center" alt="Thiago-Jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Thiago-Postgre" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
+
+##
+### Anotações e Estudos:
+> Ao longo do programa, estou utilizando a ferramenta *Notion* para anotações e organização dos conteúdos abordados nas aulas e o que vou estudando por fora.
+>
+> Esse é o <a href="https://thiagobrito.notion.site/Americanas-Futuro-Polo-Tech-5ca0bcabcbd54cac84d5ae7a0c82fc29" target="_blank">link</a>, caso queira dar uma olhada.
+<img align="center" alt="Thiago-Python" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
