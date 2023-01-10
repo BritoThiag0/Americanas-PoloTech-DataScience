@@ -66,7 +66,7 @@ CREATE TABLE vendas2(
  * DISTINCT: Retorna todos os elementos distintos/únicos;
  * ORDER BY: Ordena o resultado de acordo com uma ou mais variáveis;
  * WHERE: Realiza filtros na consulta;
- * HAVING: Permite fazer filtros com funções de agregações
+ * HAVING: Permite fazer filtros com funções de agregações. Um "where" pra funções de agregações;
  * GROUP BY e AGREGADORES (COUNT, MAX, MIN, SUM, AVG): Permitem diversas funções na consulta;
  *
  */
