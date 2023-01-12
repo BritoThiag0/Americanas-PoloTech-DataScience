@@ -26,9 +26,8 @@ SELECT municipio,
 	   SUM(total_venda) AS total_vendido_dolar
 FROM sales
 GROUP BY municipio
-HAVING SUM(total_venda) < 150000
-ORDER BY 2 DESC
-LIMIT 1;
+HAVING SUM(total_venda) < 15000
+ORDER BY 2 DESC;
 
 /* 4) Quais as 5 marcas que tiveram os menores custos nas cidades de WATERLOO e DES MOINES? */
 SELECT cidade,
