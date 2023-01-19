@@ -29,9 +29,9 @@
 ##
 ### Tecnologias abordadas (até então):
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Símbolo referente a Linguagem de Programação Python">
-  <img align="center" alt="Thiago-Jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Thiago-Postgre" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Símbolo referente a Linguagem de Programação Python">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Símbolo referente ao Framework Jupyter">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Símbolo referente a Linguagem de Queries PostgreSQL">
 </div>
 
 ##
