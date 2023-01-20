@@ -871,8 +871,8 @@ ORDER BY 2 DESC;
 --(Utilize o nome do item!)
 SELECT c.nome_item,
 	   SUM(d.quantidade) AS qtd_vendida
-FROM cardapio c
-LEFT JOIN delivery d ON c.cardapio_id = d.pedido_id
+FROM delivery d
+LEFT JOIN cardapio c ON c.cardapio_id = d.item_id
 GROUP BY 1
 ORDER BY 1;
 
@@ -958,7 +958,7 @@ SELECT c.nome_secao,
 	   SUM(CASE WHEN (fp2.tipo_pagamento = 'pix') THEN (d.quantidade * c.preco) ELSE 0 END) AS pix
 FROM cardapio c
 LEFT JOIN delivery d ON d.item_id = c.cardapio_id
-LEFT JOIN forma_pgto fp ON fp.pedido_id = c.cardapio_id
+LEFT JOIN forma_pgto fp ON fp.pedido_id = d.pedido_id
 LEFT JOIN ref_forma_pgto fp2 ON fp.pagamento_id = fp2.pagamento_id
 GROUP BY 1
 ORDER BY 1;
