@@ -14,11 +14,11 @@
 ##
 ### Programa:
 > Fomentado pela Americanas s.a. e ministrado pela **Ada**, o programa de Data Science abordará, ao longo de 5 meses (dez/2022 a abr/2023), os seguintes temas:
->> Programação Básica (Python) - **Feito**;
+>> Programação Básica (Python) - **Concluído**;
 >
->> Banco de Dados - **Em andamento**;
+>> Banco de Dados - **Concluído**;
 >
->> Estatística;
+>> Estatística - **Em andamento**;
 >
 >> Técnicas de Programação;
 >
