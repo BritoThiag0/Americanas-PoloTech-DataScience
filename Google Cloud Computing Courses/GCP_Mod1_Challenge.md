@@ -55,6 +55,8 @@
 > kubectl expose deployment hello-server \
 > 	--type=LoadBalancer \
 > 	--port [PORTA DADA NA TASK 2]
+>
+> kubectl get service
 > ```
 
 ---
@@ -134,12 +136,11 @@
 > ```shell
 > gcloud compute instance-groups managed \
 > 	set-named-ports nginx-group \
-> 	--named-ports http:80 \
->   --zone [ZONA DADA NA TASK 2]
+> 	--named-ports http:80
 >
 > gcloud compute backend-services create nginx-backend \
 > 	--protocol HTTP \
-> 	--http-health-checks http-basic-check \
+> 	--health-checks http-basic-check \
 > 	--global
 >
 > gcloud compute backend-services add-backend nginx-backend \
