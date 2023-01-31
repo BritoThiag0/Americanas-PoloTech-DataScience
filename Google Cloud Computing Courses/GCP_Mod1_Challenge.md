@@ -52,7 +52,7 @@
 > ## 4. Expose the app on a port
 >
 > ```shell
-> > kubectl expose deployment hello-server \
+> kubectl expose deployment hello-server \
 > 	--type=LoadBalancer \
 > 	--port [PORTA DADA NA TASK 2]
 > ```
@@ -135,7 +135,7 @@
 > gcloud compute instance-groups managed \
 > 	set-named-ports nginx-group \
 > 	--named-ports http:80 \
->     --zone [ZONA DADA NA TASK 2]
+>   --zone [ZONA DADA NA TASK 2]
 >
 > gcloud compute backend-services create nginx-backend \
 > 	--protocol HTTP \
