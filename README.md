@@ -6,6 +6,9 @@
 
 > Essa iniciativa da Americanas Futuro, frente de educação da estratégia ESG da **Americanas S.A.**, além de potencializar as frentes de tecnologia e inovação da companhia, está alinhada com o compromisso associado à Agenda 2030 da ONU. O programa fortalece os Objetivos de Desenvolvimento Sustentável (ODS) 4, 8 e 10 que buscam promover educação de qualidade, trabalho decente, crescimento econômico e redução das desigualdades.
 
+> Para mais informações, é só dar uma olhada no <a href=https://github.com/thiagobrit0/Americanas-PoloTech-DataScience/files/10669696/Edital.Polo.Tech.pdf target="_blank">edital</a>.
+
+
 <div style="display: flex"><br>
   <img align="center" alt="Logo-Americanas s.a." width=207 src="https://programadoresbrasil.com.br/wp-content/uploads/2022/02/americanas-sa.png">
   <img align="center" alt="Logo-Americanas s.a." width=203 height=103 src="https://yt3.ggpht.com/szC0cpXS4cgBApOTeOUe-0TmrHkeaUr_XQzKyPcmlzy2mYd9_jxk817iwC8iIwgttSmNwkAu8gQ=s900-c-k-c0x00ffffff-no-rj">
