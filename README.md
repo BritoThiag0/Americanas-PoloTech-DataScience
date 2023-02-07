@@ -21,20 +21,27 @@
 >
 >> Banco de Dados - **Concluído**;
 >
->> Estatística - **Em andamento**;
+>> Técnicas de Programação - **Em andamento**;
 >
->> Técnicas de Programação;
+>> Estatística;
 >
->> Big Data;
+>> Machine Learning;
 >
->> Machine Learning.
+>> Big Data.
 
 ##
 ### Tecnologias abordadas (até então):
-<div style="display: inline_block"><br>
+<div style="display: inline_block, align-items: center"><br>
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Símbolo referente a Linguagem de Programação Python">
-  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Símbolo referente ao Framework Jupyter">
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Símbolo referente a Linguagem de Queries PostgreSQL">
+</div>
+
+##
+### Ferramentas utilizados para desenvolvimento (até então):
+<div style="display: inline_block"><br>
+  <img align="center" height="70" width="70" src="https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg" alt="Símbolo referente ao editor de código Visual Studio Code (VS Code)">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Símbolo referente ao Framework Jupyter">
+  <img align="center" height="70" width="70" src="https://dbeaver.com/img/dbeaver-head.png" alt="Símbolo referente ao framework DBeaver">
 </div>
 
 ##
