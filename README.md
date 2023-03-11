@@ -21,11 +21,11 @@
 >
 >> Banco de Dados - **Concluído**;
 >
->> Técnicas de Programação - **Em andamento**;
+>> Técnicas de Programação - **Concluído**;
 >
->> Estatística;
+>> Estatística - **Concluído**;
 >
->> Machine Learning;
+>> Machine Learning - **Em andamento**;
 >
 >> Big Data.
 
