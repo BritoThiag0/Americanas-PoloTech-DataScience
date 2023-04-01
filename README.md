@@ -8,36 +8,42 @@
 
 > Para mais informações, é só dar uma olhada no <a href=https://github.com/thiagobrit0/Americanas-PoloTech-DataScience/files/10669696/Edital.Polo.Tech.pdf target="_blank">edital</a>.
 
-
 <div style="display: flex"><br>
   <img align="center" alt="Logo-Americanas s.a." width=207 src="https://programadoresbrasil.com.br/wp-content/uploads/2022/02/americanas-sa.png">
   <img align="center" alt="Logo-Americanas s.a." width=203 height=103 src="https://yt3.ggpht.com/szC0cpXS4cgBApOTeOUe-0TmrHkeaUr_XQzKyPcmlzy2mYd9_jxk817iwC8iIwgttSmNwkAu8gQ=s900-c-k-c0x00ffffff-no-rj">
 </div>
 
 ##
+
 ### Programa:
+
 > Fomentado pela Americanas s.a. e ministrado pela **Ada**, o programa de Data Science abordará, ao longo de 5 meses (dez/2022 a abr/2023), os seguintes temas:
->> Programação Básica (Python) - **Concluído**;
 >
->> Banco de Dados - **Concluído**;
+> > Programação Básica (Python) - **Concluído**;
 >
->> Técnicas de Programação - **Concluído**;
+> > Banco de Dados - **Concluído**;
 >
->> Estatística - **Concluído**;
+> > Técnicas de Programação - **Concluído**;
 >
->> Machine Learning - **Em andamento**;
+> > Estatística - **Concluído**;
 >
->> Big Data.
+> > Machine Learning - **Concluído**;
+>
+> > Big Data - **Em andamento**.
 
 ##
+
 ### Tecnologias abordadas (até então):
+
 <div style="display: inline_block, align-items: center"><br>
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Símbolo referente a Linguagem de Programação Python">
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Símbolo referente a Linguagem de Queries PostgreSQL">
 </div>
 
 ##
+
 ### Ferramentas utilizados para desenvolvimento (até então):
+
 <div style="display: inline_block"><br>
   <img align="center" height="70" width="70" src="https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg" alt="Símbolo referente ao editor de código Visual Studio Code (VS Code)">
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Símbolo referente ao Framework Jupyter">
@@ -45,8 +51,10 @@
 </div>
 
 ##
+
 ### Anotações e Estudos:
-> Ao longo do programa, estou utilizando a ferramenta *Notion* para anotações e organização dos conteúdos abordados nas aulas e o que vou estudando por fora.
+
+> Ao longo do programa, estou utilizando a ferramenta _Notion_ para anotações e organização dos conteúdos abordados nas aulas e o que vou estudando por fora.
 >
 > Esse é o <a href="https://thiagobrito.notion.site/Americanas-Futuro-Polo-Tech-5ca0bcabcbd54cac84d5ae7a0c82fc29" target="_blank">link</a>, caso queira dar uma olhada.
-<img align="center" alt="Thiago-Python" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
+> <img align="center" alt="Thiago-Python" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">

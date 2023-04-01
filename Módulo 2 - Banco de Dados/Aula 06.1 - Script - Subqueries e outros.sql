@@ -119,7 +119,7 @@ SELECT 'SANDRO SAORIN ADADAAD' LIKE 'SANDRO%';
 SELECT 'SANDRO SAORIN' LIKE '%SANDRO';		
 
 -- % em ambos os lados: valida se existe aquele trecho dentro da string
-SELECT 'SANDRO SAORIN' LIKE 'SANDRO%';
+SELECT 'SANDRO SAORIN' LIKE '%SANDRO%';
 
 -- CONCAT
 SELECT CONCAT('SANDRO', ' ', 'SAORIN', ' ', 'DA', ' ', 'SILVA');
